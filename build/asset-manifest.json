@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/registration-student-frontend/static/css/main.f855e6bc.css",
-    "main.js": "/registration-student-frontend/static/js/main.24f03059.js",
-    "static/js/453.5e07cd1c.chunk.js": "/registration-student-frontend/static/js/453.5e07cd1c.chunk.js",
-    "static/media/logo.svg": "/registration-student-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/registration-student-frontend/static/css/main.9ad2da52.css",
+    "main.js": "/registration-student-frontend/static/js/main.8bfc8ffc.js",
+    "static/js/453.b1e77df0.chunk.js": "/registration-student-frontend/static/js/453.b1e77df0.chunk.js",
     "index.html": "/registration-student-frontend/index.html",
-    "main.f855e6bc.css.map": "/registration-student-frontend/static/css/main.f855e6bc.css.map",
-    "main.24f03059.js.map": "/registration-student-frontend/static/js/main.24f03059.js.map",
-    "453.5e07cd1c.chunk.js.map": "/registration-student-frontend/static/js/453.5e07cd1c.chunk.js.map"
+    "main.9ad2da52.css.map": "/registration-student-frontend/static/css/main.9ad2da52.css.map",
+    "main.8bfc8ffc.js.map": "/registration-student-frontend/static/js/main.8bfc8ffc.js.map",
+    "453.b1e77df0.chunk.js.map": "/registration-student-frontend/static/js/453.b1e77df0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.24f03059.js"
+    "static/css/main.9ad2da52.css",
+    "static/js/main.8bfc8ffc.js"
   ]
 }
